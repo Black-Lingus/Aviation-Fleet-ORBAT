@@ -1,3 +1,4 @@
+import { marleyanFleet } from './data.js';
 let activeDragToken = null;
 let activeIntelDragTarget = null;
 
